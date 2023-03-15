@@ -1,0 +1,17 @@
+body {/*set background color text color font to helvetica and the cursor to crosshair*/
+    background-color:#4afa29 ;
+    font-family: Helvetica, Arial, sans-serif;
+    cursor:crosshair;
+    color:#340567;
+}
+img {/*set border radius and a 4px white border*/
+    border-radius: 10px;
+    border: 4px solid white
+}
+.centeredText{/*centers all text with this class
+    (it was annoying that one thing could not have multiple classes not hard to fix but still)*/
+ text-align: center;
+}
+.latinText{/*sets all latin on the page to times new roman*/
+    font-family:'Times New Roman', Times, serif ;
+}
